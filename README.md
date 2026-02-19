@@ -42,12 +42,6 @@ Selective feature usage through modular utilities operates independently enablin
 
 ---
 
-<p align="center">
-  <img src="https://cdn.neowin.com/news/images/uploaded/2022/04/1649325266_powertoys_peek_settings.jpg" alt="PowerToys screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 PowerToys distinguishes itself through comprehensive utility collection beyond single-purpose tools. Unlike individual utilities, integrated tool suite serves complete power user productivity enhancement requirements.
